@@ -1,0 +1,63 @@
+.example-parent {
+    border: 2px solid #3112df;
+    color: black;
+    display: flex;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  .example-origin {
+    flex-basis: 100%;
+    flex-grow: 1;
+    padding: 10px;
+
+  }
+
+  
+
+
+  
+
+
+
+
+
+  
+  .example-draggable {
+    
+    font-weight: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 100px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTSUyiVzgcEoi8IaiX4NOY51f-uy7I3rWhw&usqp=CAU);
+  }
+
+
+
+  .example-draggable1 {
+    
+    font-weight: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding:   0px;
+    
+  }
+
+
+  
+
+  .example-draggable3 {
+    
+    font-weight: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 100px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNGmm-EVu_Hc9XL33tZJjHpzE241oZQ-z7w&usqp=CAU);
+  }
+  
+  .example-dropzone {
+    background-color: #6DB65B;
+    flex-basis: 100%;
+    flex-grow: 1;
+    padding: 10px;
+  }
